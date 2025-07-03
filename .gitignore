@@ -1,3 +1,11 @@
+# macOS system file
 .DS_Store
+# Environment variable file
 .env
-.venv
+# uv virtual environment
+.venv/
+# uv cache and state
+.uv/
+# Python cache
+__pycache__/
+*.pyc
